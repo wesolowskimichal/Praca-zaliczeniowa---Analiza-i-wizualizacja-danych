@@ -1,0 +1,8 @@
+Praca zaliczeniowa — Analiza i wizualizacja danych (Pandas)
+Temat: Analiza czynników ryzyka choroby serca (UCI Heart Disease)
+
+Sekcja projektowa: Michał Wesołowski, Szymon Woźny
+Grupa dziekańska: _(do uzupełnienia)_
+
+Link do repozytorium z efektami:
+https://github.com/wesolowskimichal/Praca-zaliczeniowa---Analiza-i-wizualizacja-danych
